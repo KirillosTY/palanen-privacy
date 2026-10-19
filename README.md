@@ -1,6 +1,6 @@
 # Palanen – tietosuojaseloste / privacy policy
 
-Ravintopäiväkirja Androidille · A nutrition diary for Android
+Ravintopäiväkirja Androidille ja iPhonelle · A nutrition diary for Android and iPhone
 
 Verkkosivuna / As a web page: https://kirillosty.github.io/palanen-privacy/
 
@@ -8,7 +8,7 @@ Verkkosivuna / As a web page: https://kirillosty.github.io/palanen-privacy/
 
 ## Tietosuojaseloste
 
-*Voimassa 8.10.2026 alkaen*
+*Voimassa 19.10.2026 alkaen*
 
 ### Kuka vastaa
 
@@ -20,7 +20,7 @@ Kirjaamasi ruoat, vesi ja lisäravinteet, profiilin tiedot (esimerkiksi ikä, pi
 
 ### Pilvi ja varmuuskopiot
 
-Tietoja ei varmuuskopioida pilveen: Androidin automaattinen varmuuskopio on pois käytöstä. Kun siirryt uuteen puhelimeen, Android voi kopioida tiedot suoraan laitteesta toiseen. Varmuuskopiotiedosto menee vain sinne, minne itse sen tallennat tai jaat.
+Tietoja ei varmuuskopioida pilveen. Androidissa automaattinen varmuuskopio on pois käytöstä, ja uuteen puhelimeen siirtyessä Android voi kopioida tiedot suoraan laitteesta toiseen. iPhonessa tiedot on rajattu pois iCloud- ja tietokonevarmuuskopioista, joten uuteen iPhoneen ne siirtyvät vain varmuuskopiotiedostolla (⚙ → Varmuuskopio). Varmuuskopiotiedosto menee vain sinne, minne itse sen tallennat tai jaat.
 
 ### Verkko
 
@@ -48,7 +48,7 @@ Tiedot säilyvät laitteellasi, kunnes poistat sovelluksen tai tyhjennät sen ti
 
 ### Tietojen poistaminen
 
-Voit poistaa kaikki tiedot poistamalla sovelluksen tai tyhjentämällä sen tiedot Androidin asetuksista.
+Voit poistaa kaikki tiedot poistamalla sovelluksen. Androidissa voit myös tyhjentää sen tiedot puhelimen asetuksista.
 
 ### Ikäraja
 
@@ -60,7 +60,7 @@ Muutokset julkaistaan tällä sivulla ja kerrotaan sovelluksessa.
 
 ## Privacy policy
 
-*In force from 8 October 2026*
+*In force from 19 October 2026*
 
 ### Who is responsible
 
@@ -72,7 +72,7 @@ The foods, water and supplements you log, your profile (for example age, height 
 
 ### Cloud and backups
 
-Nothing is backed up to the cloud: Android's automatic backup is turned off. When you move to a new phone, Android can copy the data directly from one device to the other. A backup file goes only where you save or share it yourself.
+Nothing is backed up to the cloud. On Android, automatic backup is turned off, and when you move to a new phone, Android can copy the data directly from one device to the other. On iPhone, the data is excluded from iCloud and computer backups, so it moves to a new iPhone only with a backup file (⚙ → Backup). A backup file goes only where you save or share it yourself.
 
 ### Network
 
@@ -100,7 +100,7 @@ The data stays on your device until you remove the app or clear its data. The pu
 
 ### Deleting your data
 
-You can delete all data by removing the app or by clearing its data in Android's settings.
+You can delete all data by removing the app. On Android, you can also clear its data in the phone's settings.
 
 ### Age limit
 
