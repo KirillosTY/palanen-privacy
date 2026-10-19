@@ -28,7 +28,7 @@ Kun haet tuotetta viivakoodilla eikä sitä löydy sovelluksen omasta tuoteluett
 
 ### Tekoälytuonti
 
-”Lisää tekoälyltä” ei lähetä mitään. Kopioit ohjeen itse ja annat sen sekä tiedon siitä, mitä söit, valitsemallesi tekoälypalvelulle. Siihen, mitä annat palvelulle, sovelletaan sen omia ehtoja ja tietosuojaa.
+”Lisää tekoälyltä” ei lähetä mitään verkkoon. Annat ohjeen itse valitsemallesi tekoälypalvelulle joko tiedostona puhelimen jakovalikon kautta tai kopioimalla ja kerrot sille, mitä söit. Ohjeessa ei ole mitään omista tiedoistasi. Siihen, mitä annat palvelulle, sovelletaan sen omia ehtoja ja tietosuojaa. Androidissa sovellus katsoo puhelimesta, mitkä tunnetut tekoälysovellukset on asennettu, jotta se voi näyttää ne listana. Tieto ei lähde puhelimesta.
 
 ### Kamera
 
@@ -80,7 +80,7 @@ When you look up a product by barcode and it is not in the app's own product cat
 
 ### AI import
 
-“Add from AI” sends nothing. You copy the prompt yourself and give it, together with what you ate, to an AI service of your choice. That service's own terms and privacy policy apply to what you give it.
+“Add from AI” sends nothing over the internet. You give the instructions to an AI service of your choice yourself, as a file through your phone's share menu or by copying them, and tell it what you ate. The instructions contain none of your own data. That service's own terms and privacy policy apply to what you give it. On Android, the app checks on the phone which known AI apps are installed, so that it can list them. This information does not leave the phone.
 
 ### Camera
 
